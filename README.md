@@ -16,4 +16,5 @@ pip install poetry
 poetry init
 poetry install
 poetry shell
+pip install -r requirements.txt
 ```
